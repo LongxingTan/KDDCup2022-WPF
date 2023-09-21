@@ -1,4 +1,6 @@
 # KDD Cup 2022 - Baidu Spatial Dynamic Wind Power Forecasting
+[![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/tanlongxing/kdd-cup-2022-wind-power-forecast)
+[![arxiv](https://img.shields.io/badge/cs.ML-2307.09248-red?logo=arxiv&logoColor=red)](https://arxiv.org/abs/2307.09248)
 
 This is the 3rd place solution in Baidu KDD Cup 2022. The task is to predict the wind farm's future 48 hours active power for every 10 minutes.
 
@@ -15,7 +17,6 @@ This is the 3rd place solution in Baidu KDD Cup 2022. The task is to predict the
 
 
 ## How to use it
-[![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/tanlongxing/kdd-cup-2022-wind-power-forecast)
 
 0. Prepare the tensorflow environment
 ```shell
@@ -30,7 +31,6 @@ python nn_train.py
 
 
 ## Citation
-[![arxiv](https://img.shields.io/badge/cs.ML-2307.09248-red?logo=arxiv&logoColor=red)](https://arxiv.org/abs/2307.09248)
 
 If you find it useful in your research, please consider cite:
 
