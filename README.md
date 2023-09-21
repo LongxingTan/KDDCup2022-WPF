@@ -30,6 +30,8 @@ python nn_train.py
 
 
 ## Citation
+[![arxiv](https://img.shields.io/badge/cs.ML-2307.09248-red?logo=arxiv&logoColor=red)](https://arxiv.org/abs/2307.09248)
+
 If you find it useful in your research, please consider cite:
 
 ```
